@@ -1,0 +1,17 @@
+[project]
+name = "alltius"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "docx2txt>=0.9",
+    "gradio>=5.25.2",
+    "html2text>=2025.4.15",
+    "langchain-chroma>=0.2.3",
+    "langchain-community>=0.3.21",
+    "langchain-openai>=0.3.14",
+    "langchain-pymupdf4llm>=0.3.1",
+    "langgraph>=0.3.30",
+    "playwright==1.51.0",
+]
